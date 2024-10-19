@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320630457465",
+    "project_id": "sextionary-715cc",
+    "storage_bucket": "sextionary-715cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320630457465:android:8bc626286e8a16d84840a8",
+        "android_client_info": {
+          "package_name": "com.bogotadiscover.sexyonary.sexyonary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1NjuwGO5MjKe_PFwpkRwITk8Qi2aOVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
